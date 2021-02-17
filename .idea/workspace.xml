@@ -1,0 +1,272 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="04e862e6-f5d9-4aa9-8426-273e94e2b70b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StringMnaipulationChallenge.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/bankaccounts/BankAccount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/bankaccounts/Transaction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/list/ListChecker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/list/WhenSortingMixList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/udemy/LongestStreak.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/udemy/MatchingChar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/udemy/Nearest21.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/udemy/RepeatChar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/udemy/WhenAddingUnique.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/udemy/WordsCount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/bankaccounts/BankAccount.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/bankaccounts/Transaction.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/org/example/App.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/bankaccounts/WhenCreatingABankAccount.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/list/ListChecker$CustomComparator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/list/ListChecker.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/list/WhenSortingMixList.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/udemy/LongestStreak.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/udemy/MatchingChar.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/udemy/Nearest21.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/udemy/RepeatChar.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/udemy/WhenAddingUnique.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/udemy/WordsCount.class" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+        <option name="jdkForImporter" value="#JAVA_HOME" />
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1oTfr6BGoMirukrvDUxvt4sdkZM" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/src/main/java" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
+    <property name="settings.editor.selected.configurable" value="reference.settings.project.maven.importing" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="bankaccounts" />
+      <recent name="list" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.WhenCreatingABankAccount">
+    <configuration name="LongestStreak" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="udemy.LongestStreak" />
+      <module name="StringMnaipulationChallenge" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="udemy.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WhenCreatingABankAccount" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="StringMnaipulationChallenge" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="bankaccounts.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="bankaccounts" />
+      <option name="MAIN_CLASS_NAME" value="bankaccounts.WhenCreatingABankAccount" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WhenCreatingABankAccount.shouldBeAbleToDepositMoney" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="StringMnaipulationChallenge" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="bankaccounts.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="bankaccounts" />
+      <option name="MAIN_CLASS_NAME" value="bankaccounts.WhenCreatingABankAccount" />
+      <option name="METHOD_NAME" value="shouldBeAbleToDepositMoney" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WhenCreatingABankAccount.shouldBeAbleToViewTransactionHistory" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="StringMnaipulationChallenge" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="bankaccounts.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="bankaccounts" />
+      <option name="MAIN_CLASS_NAME" value="bankaccounts.WhenCreatingABankAccount" />
+      <option name="METHOD_NAME" value="shouldBeAbleToViewTransactionHistory" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WhenCreatingABankAccount.shouldBeAbleToWithdrawMoney" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="StringMnaipulationChallenge" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="bankaccounts.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="bankaccounts" />
+      <option name="MAIN_CLASS_NAME" value="bankaccounts.WhenCreatingABankAccount" />
+      <option name="METHOD_NAME" value="shouldBeAbleToWithdrawMoney" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.WhenCreatingABankAccount" />
+        <item itemvalue="JUnit.WhenCreatingABankAccount.shouldBeAbleToViewTransactionHistory" />
+        <item itemvalue="JUnit.WhenCreatingABankAccount.shouldBeAbleToDepositMoney" />
+        <item itemvalue="JUnit.WhenCreatingABankAccount.shouldBeAbleToWithdrawMoney" />
+        <item itemvalue="Application.LongestStreak" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="04e862e6-f5d9-4aa9-8426-273e94e2b70b" name="Default Changelist" comment="" />
+      <created>1613315696059</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1613315696059</updated>
+    </task>
+    <task id="LOCAL-00001" summary="The files fr advanced comparators , string manipulation and bank account challenge">
+      <created>1613553691599</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1613553691599</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="The files fr advanced comparators , string manipulation and bank account challenge" />
+    <option name="LAST_COMMIT_MESSAGE" value="The files fr advanced comparators , string manipulation and bank account challenge" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="574" y="122" key="#com.intellij.ide.util.MemberChooser" timestamp="1613550271575">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="574" y="122" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1613550271575" />
+    <state x="241" y="121" key="#xdebugger.evaluate" timestamp="1613320841051">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="241" y="121" key="#xdebugger.evaluate/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1613320841051" />
+    <state x="296" y="4" key="CommitChangelistDialog2" timestamp="1613553689910">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="296" y="4" key="CommitChangelistDialog2/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1613553689910" />
+    <state x="549" y="154" key="FileChooserDialogImpl" timestamp="1613553608143">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="154" key="FileChooserDialogImpl/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1613553608143" />
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom" timestamp="1613551713331">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1613551713331" />
+    <state width="1493" height="210" key="GridCell.Tab.0.center" timestamp="1613551713331">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.center/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1613551713331" />
+    <state width="1493" height="210" key="GridCell.Tab.0.left" timestamp="1613551713331">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.left/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1613551713331" />
+    <state width="1493" height="210" key="GridCell.Tab.0.right" timestamp="1613551713331">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1613551713331" />
+    <state width="1493" height="241" key="GridCell.Tab.1.bottom" timestamp="1613462592706">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="241" key="GridCell.Tab.1.bottom/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1613462592706" />
+    <state width="1493" height="241" key="GridCell.Tab.1.center" timestamp="1613462592706">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="241" key="GridCell.Tab.1.center/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1613462592706" />
+    <state width="1493" height="241" key="GridCell.Tab.1.left" timestamp="1613462592706">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="241" key="GridCell.Tab.1.left/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1613462592706" />
+    <state width="1493" height="241" key="GridCell.Tab.1.right" timestamp="1613462592706">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="241" key="GridCell.Tab.1.right/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1613462592706" />
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1613553786375">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1613553786375" />
+    <state x="583" y="190" key="chooseDestDirectoryDialog" timestamp="1613548607711">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="583" y="190" key="chooseDestDirectoryDialog/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1613548607711" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/udemy/RepeatChar.java</url>
+          <line>20</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/udemy/MatchingChar.java</url>
+          <line>7</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/udemy/LongestStreak.java</url>
+          <line>7</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
