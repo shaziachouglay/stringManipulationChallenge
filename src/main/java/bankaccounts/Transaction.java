@@ -3,14 +3,6 @@ package bankaccounts;
 import java.util.Objects;
 
 public class Transaction {
-    public static Transaction withdrawalOf(double amount) {
-        return new Transaction(amount * - 1);
-    }
-
-    public double getAmount() {
-        return amount;
-    }
-
     @Override
     public boolean equals(Object o) {
         if (this == o) return true;
@@ -24,6 +16,10 @@ public class Transaction {
         return Objects.hash(amount);
     }
 
+    public double getAmount() {
+        return amount;
+    }
+
     private final double amount;
 
     public Transaction(double amount) {
@@ -32,5 +28,9 @@ public class Transaction {
 
     public static Transaction depositOf(double amount) {
         return new Transaction(amount);
+    }
+
+    public static Transaction withdrawalOf(double amount) {
+        return new Transaction(amount * -1);
     }
 }
