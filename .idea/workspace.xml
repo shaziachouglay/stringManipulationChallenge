@@ -2,12 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="04e862e6-f5d9-4aa9-8426-273e94e2b70b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/resources/search_for_hotel.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/generals/General.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/generals/MarchBackward.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/generals/MarchForward.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/generals/Officer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/generals/Order.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/generals/WhenGivingOrders.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/bankaccounts/BankAccount.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/bankaccounts/Transaction.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/bankaccounts/BankAccount.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/bankaccounts/BankAccount.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/bankaccounts/Transaction.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/bankaccounts/Transaction.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,6 +18,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -39,7 +41,9 @@
     </option>
   </component>
   <component name="ProjectId" id="1oTfr6BGoMirukrvDUxvt4sdkZM" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -54,11 +58,12 @@
   </component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
+      <recent name="generals" />
       <recent name="bankaccounts" />
       <recent name="list" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.WhenCreatingABankAccount">
+  <component name="RunManager" selected="JUnit.WhenGivingOrders">
     <configuration name="WhenCreatingABankAccount" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="StringMnaipulationChallenge" />
       <extension name="coverage">
@@ -90,49 +95,48 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="WhenCreatingABankAccount.shouldBeAbleToDepositMoney" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="WhenGivingOrders" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="StringMnaipulationChallenge" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="bankaccounts.*" />
+          <option name="PATTERN" value="generals.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="bankaccounts" />
-      <option name="MAIN_CLASS_NAME" value="bankaccounts.WhenCreatingABankAccount" />
-      <option name="METHOD_NAME" value="shouldBeAbleToDepositMoney" />
+      <option name="PACKAGE_NAME" value="generals" />
+      <option name="MAIN_CLASS_NAME" value="generals.WhenGivingOrders" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WhenGivingOrders.a_general_can_delegate_orders" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="StringMnaipulationChallenge" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="generals.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="generals" />
+      <option name="MAIN_CLASS_NAME" value="generals.WhenGivingOrders" />
+      <option name="METHOD_NAME" value="a_general_can_delegate_orders" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="WhenCreatingABankAccount.shouldBeAbleToViewTransactionHistory" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="WhenGivingOrders.a_general_can_give_orders" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="StringMnaipulationChallenge" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="bankaccounts.*" />
+          <option name="PATTERN" value="generals.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="bankaccounts" />
-      <option name="MAIN_CLASS_NAME" value="bankaccounts.WhenCreatingABankAccount" />
-      <option name="METHOD_NAME" value="shouldBeAbleToViewTransactionHistory" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="WhenCreatingABankAccount.shouldBeAbleToWithdrawMoney" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="StringMnaipulationChallenge" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="bankaccounts.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="bankaccounts" />
-      <option name="MAIN_CLASS_NAME" value="bankaccounts.WhenCreatingABankAccount" />
-      <option name="METHOD_NAME" value="shouldBeAbleToWithdrawMoney" />
+      <option name="PACKAGE_NAME" value="generals" />
+      <option name="MAIN_CLASS_NAME" value="generals.WhenGivingOrders" />
+      <option name="METHOD_NAME" value="a_general_can_give_orders" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -140,11 +144,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.WhenGivingOrders" />
+        <item itemvalue="JUnit.WhenGivingOrders.a_general_can_delegate_orders" />
+        <item itemvalue="JUnit.WhenGivingOrders.a_general_can_give_orders" />
         <item itemvalue="JUnit.WhenCreatingABankAccount" />
         <item itemvalue="JUnit.WhenCreatingABankAccount.initialBalancaShouldBeZero" />
-        <item itemvalue="JUnit.WhenCreatingABankAccount.shouldBeAbleToViewTransactionHistory" />
-        <item itemvalue="JUnit.WhenCreatingABankAccount.shouldBeAbleToDepositMoney" />
-        <item itemvalue="JUnit.WhenCreatingABankAccount.shouldBeAbleToWithdrawMoney" />
       </list>
     </recent_temporary>
   </component>
@@ -181,14 +185,18 @@
     <option name="LAST_COMMIT_MESSAGE" value="The files fr advanced comparators , string manipulation and bank account challenge" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="574" y="122" key="#com.intellij.ide.util.MemberChooser" timestamp="1613554767413">
+    <state x="574" y="122" key="#com.intellij.ide.util.MemberChooser" timestamp="1615200909262">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="574" y="122" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1613554767413" />
-    <state x="499" y="159" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1613553966151">
+    <state x="574" y="122" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1615200909262" />
+    <state x="499" y="188" key="#com.intellij.ide.util.PackageChooserDialog" timestamp="1615186110373">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="499" y="159" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1613553966151" />
+    <state x="499" y="188" key="#com.intellij.ide.util.PackageChooserDialog/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1615186110373" />
+    <state x="499" y="159" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1615200223205">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="499" y="159" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1615200223205" />
     <state x="241" y="121" key="#xdebugger.evaluate" timestamp="1613320841051">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -201,22 +209,22 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="549" y="154" key="FileChooserDialogImpl/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1613553608143" />
-    <state width="1493" height="210" key="GridCell.Tab.0.bottom" timestamp="1613639700232">
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom" timestamp="1615200950530">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1613639700232" />
-    <state width="1493" height="210" key="GridCell.Tab.0.center" timestamp="1613639700232">
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1615200950530" />
+    <state width="1493" height="210" key="GridCell.Tab.0.center" timestamp="1615200950530">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.center/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1613639700232" />
-    <state width="1493" height="210" key="GridCell.Tab.0.left" timestamp="1613639700232">
+    <state width="1493" height="210" key="GridCell.Tab.0.center/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1615200950530" />
+    <state width="1493" height="210" key="GridCell.Tab.0.left" timestamp="1615200950530">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.left/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1613639700232" />
-    <state width="1493" height="210" key="GridCell.Tab.0.right" timestamp="1613639700232">
+    <state width="1493" height="210" key="GridCell.Tab.0.left/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1615200950530" />
+    <state width="1493" height="210" key="GridCell.Tab.0.right" timestamp="1615200950530">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1613639700232" />
+    <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1615200950530" />
     <state width="1493" height="241" key="GridCell.Tab.1.bottom" timestamp="1613462592706">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -237,14 +245,14 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="406" y="134" key="RollbackChangesDialog/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1613555388661" />
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1613553893519">
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1614364160404">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1613553893519" />
-    <state x="583" y="190" key="chooseDestDirectoryDialog" timestamp="1613548607711">
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1614364160404" />
+    <state x="583" y="190" key="chooseDestDirectoryDialog" timestamp="1615186115645">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="583" y="190" key="chooseDestDirectoryDialog/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1613548607711" />
+    <state x="583" y="190" key="chooseDestDirectoryDialog/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1615186115645" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
